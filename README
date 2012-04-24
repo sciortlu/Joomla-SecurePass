@@ -1,0 +1,24 @@
+Radius SecurePass Joomla Plugin
+Radius SecurePass Joomla Plugin is a strong authentication joomla plugin
+
+
+Compatibility
+Joomla 1.7 / 2.5
+
+Requirements
+Pay attention, it requires php installation with socket compliled.
+
+Installation
+1) Go to the Joomla admin panel
+2) Click on Extension
+3) Select the radius_securepass.zip file
+4) Select upload & install
+5) Go to Extension and select Plug-in-Manager
+6) Configure SecurePass Parameter
+7) Save and activate the module
+
+For more info about SecurePass service please visit 
+http://www.secure-pass.net/wiki/index.php/SecurePass
+
+
+Copyright (c) 2012-2012, Luca Sciortino. All rights reserved.
