@@ -2,6 +2,7 @@ Radius SecurePass Joomla Plugin Ver. 01
 Radius SecurePass Joomla Plugin is a strong authentication joomla plugin
 
 It use SecurePass service to obtain a strong radius authentication.
+It's inspired by Radius Plugin written by Morten Salomon.
 
 
 Compatibility
